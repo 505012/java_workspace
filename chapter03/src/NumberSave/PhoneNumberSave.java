@@ -70,7 +70,8 @@ public class PhoneNumberSave {
 					phones[i].setNumber(name);
 					break;
 				}
-			}
+			
+			System.out.println("없습니다.");}
 		}
 		
 	}
